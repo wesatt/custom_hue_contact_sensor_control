@@ -1,0 +1,5 @@
+local_bridge_ip: <local_bridge_ip>
+local_bridge_hostname: <local_bridge_hostname>
+light_rid: <light_rid>
+sensor_rid: <sensor_rid>
+app_key: <app_key>
